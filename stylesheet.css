@@ -180,6 +180,47 @@ text-decoration: none;
 #navbar-iframe {
 display: none !important;
 }
+
+ul {
+border-top: 1px solid transparent;
+border-left: 1px solid transparent;
+border-right: 1px solid transparent;
+border-bottom: 0px;
+padding-top: 15px;
+padding-bottom: 15px;
+opacity: 0.9;
+background: #fcf1ed;
+margin-top: 0px;
+margin-bottom: 20px;
+background: #fcf1ed none repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid transparent;
+margin-top: 0;
+background: none repeat-x scroll 0 -800px transparent;
+margin-left: -70px;
+margin-right: -70px;
+margin-top: 0;
+}
+li a {
+display: inline-block;
+font: normal normal 11px Montserrat;
+color: #3f3a36;
+border-left: 1px solid #ffffff;
+border-right: 1px solid transparent;
+border-left: 0 solid #FFFFFF;
+border-right: 0 solid #DDDDDD;
+display: inline-block;
+padding: .6em 3em;
+text-transform: uppercase;
+letter-spacing: 3px;
+}
+li a:hover {
+color: #ffffff;
+background-color: #fcf1ed;
+text-decoration: none;
+}
+
+
 /* Images
 ----------------------------------------------- */
 #Image5:hover {
